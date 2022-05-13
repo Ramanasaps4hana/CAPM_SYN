@@ -1,0 +1,10 @@
+{
+    "TESTCAP1_1_SYN_MARA": {
+        "target": {
+            "object": "MARA",
+            "schema": "TESTHANA1_1_1"
+            // "schema.configure": "logical-testhana1_1-grantor/schema"
+        }        
+    }
+
+}
